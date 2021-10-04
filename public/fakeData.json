@@ -1,0 +1,74 @@
+[
+    {
+      "course_name": "General English",
+      "id": "1",
+      "heading": "Improve your English with your intellegence.",
+      "price": "50",
+      "time": "4 months",
+      "img": "https://st.depositphotos.com/1252160/1697/i/600/depositphotos_16977105-stock-photo-boy-study-literature-books-at.jpg"
+    },
+    {
+      "course_name": "English for Business",
+      "id": "2",
+      "heading": "Coaching for you if you want harmony in your life and are ready to work.",
+      "price": "80",
+      "time": "2 months",
+      "img": "https://www.mastersineducationonline.net/assets/english-education.jpg"
+    },
+    {
+      "course_name": "Professional English course",
+      "id": "3",
+      "heading": "In your work place it is very important to know english",
+      "price": "100",
+      "time": "6 months",
+      "img": "https://www.edgehill.ac.uk/courses/files/BA-Hons-Education-English.jpg"
+    },
+    {
+      "course_name": "Beginner friendly",
+      "id": "4",
+      "heading": "Nothing is easier to improve your english with fun.",
+      "price": "30",
+      "time": "3 months",
+      "img": "https://as1.ftcdn.net/v2/jpg/02/27/05/12/500_F_227051203_8PVkfauNTVmCUVHkzcxUkHR5hTiWarGY.jpg"
+    },
+    {
+      "course_name": "Live course",
+      "id": "5",
+      "heading": "improve your english",
+      "price": "90",
+      "time": "2 months",
+      "img": "https://liberalarts.vt.edu/content/liberalarts_vt_edu/en/departments-and-schools/school-of-education/academic-programs/english-education/_jcr_content/content/vtcontainer_1030881677/vtcontainer-content/vtmulticolumn/vt-items_1/adaptiveimage.transform/m-medium/image.jpg"
+    },
+    {
+      "course_name": "Practise with us",
+      "id": "6",
+      "heading": "improve your english",
+      "price": "80",
+      "time": "2 months",
+      "img": "https://education.fsu.edu/sites/g/files/upcbnu3146/files/english%20edu.jpg"
+    },
+    {
+      "course_name": "Flauency English",
+      "id": "7",
+      "heading": "improve your english",
+      "price": "50",
+      "time": "9 months",
+      "img": "https://thumbs.dreamstime.com/b/learn-english-top-view-globe-world-map-sunglasses-pen-notebook-written-learn-english-white-wooden-background-112081952.jpg"
+    },
+    {
+      "course_name": "Exam preparation",
+      "id": "8",
+      "heading": "improve your english",
+      "price": "120",
+      "time": "10 months",
+      "img": "https://www.wcu.edu/WebGraphicsNew/learn-academics/english-education.jpg"
+    },
+    {
+      "course_name": "Fun with English",
+      "id": "9",
+      "heading": "improve your english",
+      "price": "110",
+      "time": "12 months",
+      "img": "https://media.istockphoto.com/vectors/people-learning-english-isometric-vector-illustration-distance-vector-id1214244642?k=20&m=1214244642&s=612x612&w=0&h=9xnN0QiEaJWRkL6NGHkirlD0qyWHjuxZMooW0xOZwm4="
+    }
+  ]
